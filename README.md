@@ -6,5 +6,5 @@ Introduction to the basic principles, techniques, and tools used to translate te
 •	Implemented a lexical analyzer(scanner) to read the source file character by character for token recognition.\
 •	Made transformations to the Platypus grammar by fixing immediate left recursion and by left factoring where necessary.\
 •	Created the FIRST and FOLLOW sets for grammar\
-•	Implemented a syntax analyzer(parser) using the fixed grammar.\
+•	Implemented a syntax analyzer(parser) using the fixed grammar.
 
